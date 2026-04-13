@@ -1,0 +1,17 @@
+Package: spain-electoral-theme
+Type: Package
+Title: pkgdown Template for Spain Electoral Project
+Version: 0.1.0
+Authors@R:
+    person("Héctor", "Meleiro", email = "hmeleiro@gmail.com",
+           role = c("aut", "cre"))
+Description: A pkgdown template package that provides the unified visual
+    identity for all R packages in the Spain Electoral Project ecosystem.
+    Includes design tokens, typography (Inter + JetBrains Mono), and
+    component styles matching spainelectoralproject.com.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Suggests:
+    pkgdown (>= 2.0.0)
