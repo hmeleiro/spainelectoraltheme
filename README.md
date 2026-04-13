@@ -1,4 +1,4 @@
-# spain-electoral-theme
+# spain_electoral_theme
 
 **pkgdown template for the [Spain Electoral Project](https://spainelectoralproject.com/).**
 
@@ -22,7 +22,7 @@ In your package's `_pkgdown.yml`:
 
 ```yaml
 template:
-  package: spain-electoral-theme
+  package: spain_electoral_theme
   bootstrap: 5
 ```
 
