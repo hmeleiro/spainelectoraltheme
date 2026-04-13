@@ -40,7 +40,7 @@ Override any bslib variable in your package's `_pkgdown.yml`:
 
 ```yaml
 template:
-  package: spain_electspainelectoralthemeoral_theme
+  package: spainelectoraltheme
   bootstrap: 5
   bslib:
     primary: "#0066cc"  # Override accent color
