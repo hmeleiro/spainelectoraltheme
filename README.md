@@ -1,6 +1,7 @@
 **pkgdown template for the [Spain Electoral Project](https://spainelectoralproject.com/).**
 
 Provides the unified visual identity (colors, typography, component styles) for all R packages in the ecosystem:
+
 ## Ejemplos de componentes visuales
 
 <div style="max-width: 720px; margin: 2rem auto;">

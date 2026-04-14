@@ -4,8 +4,9 @@
 Project](https://spainelectoralproject.com/).**
 
 Provides the unified visual identity (colors, typography, component
-styles) for all R packages in the ecosystem: \## Ejemplos de componentes
-visuales
+styles) for all R packages in the ecosystem:
+
+## Ejemplos de componentes visuales
 
 Ejemplo de componentes y estilo global del proyecto.
 
